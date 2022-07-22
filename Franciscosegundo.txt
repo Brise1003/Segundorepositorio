@@ -5,3 +5,4 @@ Este documento tiene los tipos de marcapaso implantables de medtronic
 2. Bicameral: Un eléctrodo en aurícula derecha y uno en ventrículo derecho
 3. DAI-P: Descfribilador marcapaso
 4. DAI-RP:desfibrilador Resincronizador marcapaso
+Este comentario fue añadido después
